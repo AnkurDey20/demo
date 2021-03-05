@@ -1,0 +1,8 @@
+*.log
+/dir/
+static/dir
+
+If we need to ignore all the dir folders, then do this dir/
+If we need to ignore the outer dir folder, then do this /dir/
+
+dekhf
